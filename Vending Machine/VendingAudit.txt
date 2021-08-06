@@ -1,0 +1,5 @@
+14:43:59.271716200 | Audit Startup.
+14:45:06.001311900 | Change Inserted.
+14:45:16.990840800 | Item Succesfully Vended.
+14:45:16.990840800 | Change Returned.
+14:45:17.017768100 | Audit Closed.
